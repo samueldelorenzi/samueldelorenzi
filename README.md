@@ -7,9 +7,9 @@
 
 - 🔭 Atualmente estou trabalhando em [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento em C# e .NET**
+- 🌱 Estou me especializando em **Desenvolvimento em C# e .NET**
 
-- 👨‍💻 Meus links [https://linktr.ee/samueldelorenzi](https://linktr.ee/samueldelorenzi)
+- 👨‍💻 Meus links [linktr.ee](https://linktr.ee/samueldelorenzi)
 
 - 💬 Me pergunte sobre **Linux, Bash Script, Softwares Open Source**
 
