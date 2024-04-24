@@ -17,14 +17,13 @@
 
 - 👨‍💻 Meus links [linktr.ee](https://linktr.ee/samueldelorenzi)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
-
 <h3 align="left">Conecte-se comigo:</h3>
-
-
 
 <p align="left">
 <a href="https://linkedin.com/in/samueldelorenziribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samueldelorenziribeiro" height="30" width="40" /></a>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
+  
 <a href="https://stackoverflow.com/users/23304166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23304166" height="30" width="40" /></a>
 <a href="mailto:samueldelorenziribeiro@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="23304166" height="30" width="40" /></a>
 </p>
