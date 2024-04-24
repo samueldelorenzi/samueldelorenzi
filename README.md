@@ -1,5 +1,5 @@
-<h1 align="center">Bem-vindo, sou Samuel De Lorenzi Ribeiro</h1>
-<h3 align="center">Sou um Desenvolvedor de Software apaixonado por programação e computação em geral, desde os códigos até a parte física.</h3>
+# Bem-vindo, sou Samuel De Lorenzi Ribeiro
+## Sou um Desenvolvedor de Software apaixonado por programação e computação em geral, desde os códigos até a parte física.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samueldelorenzi&label=Profile%20views&color=0e75b6&style=flat" alt="samueldelorenzi" /> </p>
 
