@@ -22,11 +22,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/samueldelorenziribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samueldelorenziribeiro" height="30" width="40" /></a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
+
   
 <a href="https://stackoverflow.com/users/23304166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23304166" height="30" width="40" /></a>
 <a href="mailto:samueldelorenziribeiro@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="23304166" height="30" width="40" /></a>
 </p>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/samueldelorenzi/samueldelorenzi/blob/main/gnu_bash-icon-white.PNG" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
