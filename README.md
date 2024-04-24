@@ -27,4 +27,4 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github">
 <br>
-[![samueldelorenzi](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
