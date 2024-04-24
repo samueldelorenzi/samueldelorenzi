@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samueldelorenzi&label=Profile%20views&color=0e75b6&style=flat" alt="samueldelorenzi" /> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github" height="30" width="40">
 
 - 🔭 Atualmente estou trabalhando em [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
 
