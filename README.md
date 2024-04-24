@@ -5,6 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github">
+
 - 🔭 Atualmente estou trabalhando em [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
 
 - 🌱 Estou me especializando em **Desenvolvimento em C# e .NET**
