@@ -6,13 +6,13 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando em [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github">
 - 🌱 Estou me especializando em **Desenvolvimento em C# e .NET**
 
 - 💬 Me pergunte sobre **Linux, Bash Script, Softwares Open Source**
 
 - 📫 Contato **samueldelorenziribeiro@gmail.com**
-
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
 - 👨‍💻 Meus links [linktr.ee](https://linktr.ee/samueldelorenzi)
 
 <h3 align="left">Conecte-se comigo:</h3>
@@ -25,6 +25,5 @@
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/samueldelorenzi/samueldelorenzi/blob/main/gnu_bash-icon-white.PNG" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github">
-<br>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
+
+
