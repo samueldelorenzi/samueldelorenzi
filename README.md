@@ -12,8 +12,10 @@
 - 💬 Me pergunte sobre **Linux, Bash Script, Softwares Open Source**
 
 - 📫 Contato **samueldelorenziribeiro@gmail.com**
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
+
 - 👨‍💻 Meus links [linktr.ee](https://linktr.ee/samueldelorenzi)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas">
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
