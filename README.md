@@ -9,11 +9,11 @@
 
 - 🌱 Estou me especializando em **Desenvolvimento em C# e .NET**
 
-- 👨‍💻 Meus links [linktr.ee](https://linktr.ee/samueldelorenzi)
-
 - 💬 Me pergunte sobre **Linux, Bash Script, Softwares Open Source**
 
 - 📫 Contato **samueldelorenziribeiro@gmail.com**
+
+- 👨‍💻 Meus links [linktr.ee](https://linktr.ee/samueldelorenzi)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
