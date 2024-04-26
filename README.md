@@ -29,4 +29,15 @@
 <p align="left">
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=samueldelorenzi&theme=dark&show_icons=true" alt="ilustração do status do github" height="140">
   <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldelorenzi&hide=html&layout=compact&theme=dark" alt="linguagens mais usadas" height="140">
+  <br>
+  <br>
+</p>
+<br>
+<br>
+
+<p align="center"> 
+  <br>
+  <br>
+  <br>
+  <a href="https://github.com/samueldelorenzi/samueldelorenzi/blob/main/README-english.md" target="blank"><img align="center" src="https://img.shields.io/badge/don't_speak_portuguese%3F-english_version-blue?style=for-the-badge" alt="english version" /></a> 
 </p>
