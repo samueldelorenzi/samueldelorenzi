@@ -16,7 +16,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samueldelorenziribeiro" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-3?style=for-the-badge&logo=linkedin&logoColor=white&color=%23136bc5" alt="samueldelorenziribeiro" /></a>
-<a href="mailto:samueldelorenziribeiro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-3?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="samueldelorenziribeiro@gmail.com" /></a> <a href="https://api.whatsapp.com/send?phone=49998137189&text=%22Ol%C3%A1,%20vim%20pelo%20seu%20GitHub,%20podemos%20conversar?%22" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-3?style=for-the-badge&logo=whatsapp&logoColor=white&color=green" alt="whatsapp" /></a>
+<a href="mailto:samueldelorenziribeiro@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-3?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="samueldelorenziribeiro@gmail.com" /></a> <a href="https://api.whatsapp.com/send?phone=49998137189&text=Ol%C3%A1,%20vim%20pelo%20seu%20GitHub,%20podemos%20conversar?" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-3?style=for-the-badge&logo=whatsapp&logoColor=white&color=green" alt="whatsapp" /></a>
 <a href="https://stackoverflow.com/users/23304166" target="blank"><img align="center" src="https://img.shields.io/badge/stack%20overflow-3?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23f38120" alt="stackoverflow" /></a>
 </p>
 
