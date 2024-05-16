@@ -5,6 +5,8 @@
 
 - 🔭 Atualmente estou trabalhando em [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
 
+- 📚 Na faculdade, estou no terceiro semestre da graduação em **Ciência da Computação**
+
 - 🌱 Estou me especializando em desenvolvimento em **C#** juntamente com **.NET Framework**
 
 - 💬 Me pergunte sobre **Linux, Bash Script, Softwares Open Source**
