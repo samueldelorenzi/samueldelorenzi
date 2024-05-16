@@ -19,6 +19,12 @@
 <a href="mailto:samueldelorenziribeiro@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="samueldelorenziribeiro@gmail.com" /></a> <a href="https://stackoverflow.com/users/23304166" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=dark">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
   
