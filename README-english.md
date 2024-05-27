@@ -41,5 +41,5 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/samueldelorenzi/samueldelorenzi/blob/main/README.md" target="blank"><img align="center" src="https://img.shields.io/badge/Não_fala_inglês%3F-versão_em_português-blue?style=for-the-badge" alt="english version" /></a> 
+  <a href="https://github.com/samueldelorenzi" target="blank"><img align="center" src="https://img.shields.io/badge/Não_fala_inglês%3F-versão_em_português-blue?style=for-the-badge" alt="english version" /></a> 
 </p>
