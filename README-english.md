@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
 
-- 📚 In college, I’m in the third semester of my **Computer Science** degree
+- 📚 In college, I’m on the fourth semester of my **Computer Science** degree
 
 - 🌱 I’m specializing in development with **C#** along with the **.NET Framework**
 
