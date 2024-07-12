@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samueldelorenzi&label=Profile%20views&color=green&style=for-the-badge" alt="samueldelorenzi" /> </p>
 
-- 🔭 Atualmente estou trabalhando em [Programação I](https://github.com/samueldelorenzi/ProgramacaoI)
+- 🔭 Atualmente meu foco é em estudar programação através de cursos e projetos pessoais.
 
 - 📚 Na faculdade, estou no quarto semestre da graduação em **Ciência da Computação**
 
