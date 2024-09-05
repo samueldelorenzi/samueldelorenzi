@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Samuel.</h1>
-<h3 align="center">Sou um Desenvolvedor de Software e estou sempre em busca de solucionar problemas através da programação, construindo soluções robustas e úteis para a sociedade.</h3>
+
+<h4 align="center">Minha paixão é resolver problemas através da programação.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samueldelorenzi&label=Profile%20views&color=green&style=for-the-badge" alt="samueldelorenzi" /> </p>
 
