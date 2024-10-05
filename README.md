@@ -14,7 +14,7 @@
 
 - 📫 Contato **samueldelorenziribeiro@gmail.com**
 
-- 📎 [Clique aqui](https://linktr.ee/samueldelorenzi) para acessar meus outros links
+- 📎 [Clique aqui](https://samueldelorenzilinks.netlify.app/) para acessar meus outros links
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
