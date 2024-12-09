@@ -12,9 +12,7 @@
 
 - 💬 Me pergunte sobre **Linux, Bash Script, Softwares Open Source**
 
-- 📫 Contato **samueldelorenziribeiro@gmail.com**
-
-- 📎 [Clique aqui](https://samueldelorenzilinks.netlify.app/) para acessar meus outros links
+- 📫 Contato **[samueldelorenziribeiro@gmail.com](mailto:samueldelorenziribeiro@gmail.com)**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
