@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente meu foco é em estudar programação através de cursos e projetos pessoais.
 
-- 🎓 Na faculdade, estou no quarto semestre da graduação em **Ciência da Computação**
+- 🎓 Na faculdade, estou no quinto semestre da graduação em **Ciência da Computação**
 
 - 💻 Estou me especializando em desenvolvimento em **C#** juntamente com **.NET Framework**
 
