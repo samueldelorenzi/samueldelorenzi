@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a knack f
 ## 🔧 Technologies & Tools
 - **Languages:** C#, Python, PHP, HTML, CSS, JavaScript
 - **Frameworks:** Laravel, React, Next.js
-- **Tools:** Git
+- **Tools:** Git, Linux
 
 ## 📈 GitHub Stats
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldelorenzi&show_icons=true&theme=dracula)
