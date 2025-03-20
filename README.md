@@ -24,11 +24,11 @@ Here are some projects I've been working on recently:
 
 ## 🌱 Currently Learning
 - Web Programming
+- PHP
+- Laravel
 - JavaScript
 - Next.js
 - React
-- PHP
-- Laravel
 
 ## 📫 How to reach me
 - **Email:** samueldelorenziribeiro@gmail.com
