@@ -22,7 +22,7 @@ Here are some projects I've been working on recently:
 - [**BarberGo**](https://github.com/samueldelorenzi/barbergo):
   A barbershop scheduling system developed with PHP, CSS, and HTML in an MVC (Model-View-Controller) architecture, utilizing MySQL for data storage.
 
-## 🌱 Currently Learning
+## 🌱 Currently Studying
 - Web Programming
 - PHP
 - Laravel
