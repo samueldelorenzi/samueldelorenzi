@@ -22,6 +22,9 @@ Here are some projects I've been working on recently:
 - [**BarberGo**](https://github.com/samueldelorenzi/barbergo):
   A barbershop scheduling system developed with PHP, CSS, and HTML in an MVC (Model-View-Controller) architecture, utilizing MySQL for data storage.
 
+- [**UserManagementLaravel**](https://github.com/samueldelorenzi/user-management-laravel):
+  A full-stack CRUD application, that manage users stored in the Database, created using Laravel, PHP, MySQL, Vite and Bootstrap.
+
 ## 🌱 Currently Studying
 - Web Programming
 - PHP
