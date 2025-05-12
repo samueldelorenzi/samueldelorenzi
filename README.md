@@ -16,13 +16,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a knack f
 ## 💼 Projects
 Here are some projects I've been working on recently:
 
-- [**Clone TabNews**](https://github.com/samueldelorenzi/clone-tabnews):
+- [**clone-tabnews**](https://github.com/samueldelorenzi/clone-tabnews):
   A clone of the TabNews platform built with Next.js and Node.js, designed to provide a seamless news reading experience.
 
-- [**BarberGo**](https://github.com/samueldelorenzi/barbergo):
+- [**barbergo-symfony**](https://github.com/samueldelorenzi/barbergo-symfony):
+  Developing a new version of BarberGo using the PHP framework Symfony.
+
+- [**barbergo**](https://github.com/samueldelorenzi/barbergo):
   A barbershop scheduling system developed with PHP, CSS, and HTML in an MVC (Model-View-Controller) architecture, utilizing MySQL for data storage.
 
-- [**UserManagementLaravel**](https://github.com/samueldelorenzi/user-management-laravel):
+- [**user-management-laravel**](https://github.com/samueldelorenzi/user-management-laravel):
   A full-stack CRUD application, that manage users stored in the Database, created using Laravel, PHP, MySQL, Vite and Bootstrap.
 
 ## 🌱 Currently Studying
