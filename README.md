@@ -38,6 +38,7 @@ Here are some projects I've been working on recently:
 - JavaScript
 - Next.js
 - React
+- Docker
 
 ## 📫 How to reach me
 - **Email:** samueldelorenziribeiro@gmail.com
